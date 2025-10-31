@@ -1,0 +1,5 @@
+{
+  "buildCommand": "cd react-eduapp && npm run build",
+  "outputDirectory": "react-eduapp/dist",
+  "installCommand": "npm install"
+}
